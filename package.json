@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/killedar27/codespace-auth1/issues"
   },
-  "homepage": "https://github.com/killedar27/codespace-auth1#readme"
+  "homepage": "https://github.com/killedar27/codespace-auth1#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.1",
+    "mongoose": "^7.3.4"
+  }
 }
