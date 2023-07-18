@@ -1,0 +1,20 @@
+{
+  "name": "codespace-auth1",
+  "version": "1.0.0",
+  "description": "this repo is for learning github codespace",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/killedar27/codespace-auth1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/killedar27/codespace-auth1/issues"
+  },
+  "homepage": "https://github.com/killedar27/codespace-auth1#readme"
+}
